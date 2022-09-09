@@ -1,0 +1,3 @@
+File model.pickle is too large to be puched to GitHub.
+This is a link to it. Please copy the file and paste it to your project folder.
+https://disk.yandex.ru/d/0E988TE79jFSoQ
